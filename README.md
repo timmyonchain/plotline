@@ -39,3 +39,7 @@ node memory.mjs recall "<question>"           # find matching memories, most rel
 - **On session end** — save a dated session snapshot with what was done and the exact next step, then list every memory saved.
 
 The bar: the next session — possibly in a different tool — continues the project with zero re-explaining.
+
+## How it was built
+
+Plotline was built by a non-technical builder working with an AI coding assistant (Claude Code). The human set the direction — the problem, the protocol, and what a useful memory looks like — while the AI wrote the code, debugged the relayer issue documented in [`bug-report.md`](bug-report.md), and dogfooded the tool itself: the project's own development history lives in Plotline memories, saved and recalled across sessions using the exact workflow described above.
