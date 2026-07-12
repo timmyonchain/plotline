@@ -106,6 +106,13 @@ How this list was rebuilt: the blob IDs came straight from Walrus (the recall se
 - Job ID: `568e4629-1b33-4aed-9f6d-6d19206d1afc`
 - Blob ID: `z7Uo0s7ITZlTZZM8hTzeh2q4JpE7FmQcfcRRxnL7BE0`
 
+## Memory 14 — saved 2026-07-12 (namespace `plotline`)
+
+> RULE: Plotline is in submission freeze as of July 12 2026 — no new features or tasks until the Walrus Prompt Jam hackathon submission (deadline July 13 2026 2pm UTC) is complete. Only the two agreed closing tasks were allowed: auto-appending save receipts to blob-receipts.md, and a plain-language README pass. Stated by the project owner on 2026-07-12.
+
+- Job ID: `211f4c57-2fab-4852-8bfe-d594fedf649c`
+- Blob ID: `ukKGAW4XFZayb1n39T_qmbQJRPuFVnJ0FU8beRc_Lhw`
+
 ---
 
-**Total: 13 memories saved to Walrus** (12 in the `plotline` namespace, 1 in the `plotline-test` namespace). Job IDs recovered for all except one — the CLI-decision memory (Memory 2), marked not recoverable above.
+**Total: 14 memories saved to Walrus** (13 in the `plotline` namespace, 1 in the `plotline-test` namespace). Job IDs recovered for all except one — the CLI-decision memory (Memory 2), marked not recoverable above.
